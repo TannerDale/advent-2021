@@ -1,0 +1,15 @@
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/bin/Debug/net6.0/Day3
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/bin/Debug/net6.0/Day3.deps.json
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/bin/Debug/net6.0/Day3.runtimeconfig.json
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/bin/Debug/net6.0/Day3.dll
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/bin/Debug/net6.0/ref/Day3.dll
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/bin/Debug/net6.0/Day3.pdb
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/obj/Debug/net6.0/Day3.csproj.AssemblyReference.cache
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/obj/Debug/net6.0/Day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/obj/Debug/net6.0/Day3.AssemblyInfoInputs.cache
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/obj/Debug/net6.0/Day3.AssemblyInfo.cs
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/obj/Debug/net6.0/Day3.csproj.CoreCompileInputs.cache
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/obj/Debug/net6.0/Day3.dll
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/obj/Debug/net6.0/ref/Day3.dll
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/obj/Debug/net6.0/Day3.pdb
+/Users/tannerdale/Programs/practice_projects/advent_2021/3day/Day3/obj/Debug/net6.0/Day3.genruntimeconfig.cache
